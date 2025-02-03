@@ -50,6 +50,7 @@
             opacity: 0;
         }
         .debug {
+              display: none; /* Masque complètement l'élément */
             position: absolute;
             bottom: 0;
             left: 0;
